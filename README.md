@@ -26,7 +26,7 @@ The goals of this project are to:
   * Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
   * Create a blog post to share your questions and insights with a non-technical audience
 
-For my project I used Seattle Airbnb data. The code is all contained in the Jupyter notebook incuded in the project. Simply clone this project into a directory and then download the Airbnb Seattle data and add the three csv files to a sub-directory named "seattle". I also wrote a Medium post about this project which can be found [here](https://medium.com/@alan_a_gordon/on-tribe-called-quest-and-the-price-of-airbnb-listings-in-seattle-854e672a55aa).
+For my project I used Seattle Airbnb data. The code is all contained in the Jupyter [notebook](https://github.com/alangordon258/DataScienceNDProj1/blob/master/airbnbanalysis.ipynb) incuded in the project. Simply clone this project into a directory and then download the Airbnb Seattle data and add the three csv files to a sub-directory named "seattle". I also wrote a Medium post about this project which can be found [here](https://medium.com/@alan_a_gordon/on-tribe-called-quest-and-the-price-of-airbnb-listings-in-seattle-854e672a55aa).
 
 The Rubric for the project can be found [here](https://review.udacity.com/#!/rubrics/1507/view)
 

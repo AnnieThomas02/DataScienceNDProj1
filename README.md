@@ -1,7 +1,7 @@
 # Udacity Data Science Nanodegree Project 1
 ## Price Prediction Using AirBnB Data
 
-![alt text](./title_image.png)
+![alt text](./title_image.jpg)
 
 The goals of this project are to: 
 

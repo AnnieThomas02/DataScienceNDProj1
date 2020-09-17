@@ -6,12 +6,16 @@ The purpose of this project is to investigate host listings on Airbnb, a popular
 Python Version: 3.8.3
 Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
+## Data
+There are three categories of datasets utilized in this project. listing.csv, calendar.csv and reviews.csv
+
 This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology. Steps followed in this project:
 
-* **Business objective:** Analyze the price, how can you predict , discuss how price can contribute to neighborhood , factors that influence prices(does the number of bedrooms and guest included contribute to price), how price vary for property type and what guests say about their experience with Airbnb.
-* **Data Processing:** Applied certain data cleaning and wrangling techniques, handled missing data, impute where necessary, removed the outliers, and perform some text preprocessing.
-* **Modeling:** Answer questions by using appropriate aggregate method following statistical standards.
-* **Evaluation:** Present the result of the analysis in form of tables and graphs.
+* Analyze the price, how can you predict , discuss how price can contribute to neighborhood , factors that influence prices(does the number of bedrooms and guest included
+  contribute to price), how price vary for property type and what guests say about their experience with Airbnb.
+* Applied certain data cleaning and wrangling techniques, handled missing data, impute where necessary, removed the outliers, and perform some text preprocessing.
+* Answer questions by using appropriate aggregate method following statistical standards.
+* Present the result of the analysis in form of tables and graphs.
 
 For this project data used Seattle Airbnb data. Jupyter notebook incuded in the project where the code is written. The data cleaning and preparation is performed in the [Data Cleaning](https://github.com/AnnieThomas02/DataScienceNDProj1/blob/master/Data-Cleaning.ipynb). All of the data exploration, model training, parameter selection, and analysis is performed in the [Price Analysis](https://github.com/AnnieThomas02/DataScienceNDProj1/blob/master/price-analysis.ipynb). I also wrote a [Medium post](https://medium.com/@anniemathewlog/relationship-between-seattle-airbnb-prices-and-other-determinants-277cacda1bd6?sk=564477f9c0284d4ef6b21e0fb1f58d7a) about this project.
 

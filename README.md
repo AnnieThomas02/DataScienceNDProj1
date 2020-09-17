@@ -23,4 +23,4 @@ For this project data used Seattle Airbnb data. Jupyter notebook incuded in the 
 ## Acknowledgements
 * Kaggle
 * Stackoverflow
-* Youtude
+* Youtube

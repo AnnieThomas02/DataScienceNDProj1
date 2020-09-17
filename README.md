@@ -9,6 +9,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 ## Data
 There are three categories of datasets utilized in this project. listing.csv, calendar.csv and reviews.csv
 
+## Summary
 This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology. Steps followed in this project:
 
 * Analyze the price, how can you predict , discuss how price can contribute to neighborhood , factors that influence prices(does the number of bedrooms and guest included

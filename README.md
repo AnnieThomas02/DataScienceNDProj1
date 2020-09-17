@@ -9,7 +9,7 @@ This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) 
 * **Modeling:** Answer questions by using appropriate aggregate method following statistical standards.
 * **Evaluation:** Present the result of the analysis in form of tables and graphs.
 
-For this project data used Seattle Airbnb data. Jupyter notebook incuded in the project where the code is written. The data cleaning and preparation is performed in the [Data Cleaning](https://github.com/AnnieThomas02/DataScienceNDProj1/blob/master/Data-Cleaning.ipynb). All of the data exploration, model training, parameter selection, and analysis is performed in the [Price Analysis](https://github.com/AnnieThomas02/DataScienceNDProj1/blob/master/price-analysis.ipynb). I also wrote a [Medium post](https://medium.com/p/277cacda1bd6/edit) about this project.
+For this project data used Seattle Airbnb data. Jupyter notebook incuded in the project where the code is written. The data cleaning and preparation is performed in the [Data Cleaning](https://github.com/AnnieThomas02/DataScienceNDProj1/blob/master/Data-Cleaning.ipynb). All of the data exploration, model training, parameter selection, and analysis is performed in the [Price Analysis](https://github.com/AnnieThomas02/DataScienceNDProj1/blob/master/price-analysis.ipynb). I also wrote a [Medium post](https://medium.com/@anniemathewlog/relationship-between-seattle-airbnb-prices-and-other-determinants-277cacda1bd6?sk=564477f9c0284d4ef6b21e0fb1f58d7a) about this project.
 
 ## Acknowledgements
 * Kaggle
